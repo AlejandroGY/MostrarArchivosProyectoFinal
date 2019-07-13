@@ -1,2 +1,1 @@
-# MostrarArchivosProyectoFinal
-Sistemas Distribuidos
+# MostrarArchivos
